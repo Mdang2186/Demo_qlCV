@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72C1E62F-2B4C-44A7-818B-4E8BEC532C7B}|WebMVC_Hanhkhach_Chuyenbay\\WebMVC_Hanhkhach_Chuyenbay.csproj|d:\\3. l\u1EADp tr\u00ECnh _net\\asp.net mvc\\conchimcuccu\\webmvc_hanhkhach_chuyenbay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C1E62F-2B4C-44A7-818B-4E8BEC532C7B}|WebMVC_Hanhkhach_Chuyenbay\\WebMVC_Hanhkhach_Chuyenbay.csproj|solutionrelative:webmvc_hanhkhach_chuyenbay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C1E62F-2B4C-44A7-818B-4E8BEC532C7B}|WebMVC_Hanhkhach_Chuyenbay\\WebMVC_Hanhkhach_Chuyenbay.csproj|d:\\3. l\u1EADp tr\u00ECnh _net\\asp.net mvc\\conchimcuccu\\webmvc_hanhkhach_chuyenbay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72C1E62F-2B4C-44A7-818B-4E8BEC532C7B}|WebMVC_Hanhkhach_Chuyenbay\\WebMVC_Hanhkhach_Chuyenbay.csproj|solutionrelative:webmvc_hanhkhach_chuyenbay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|d:\\3. l\u1EADp tr\u00ECnh _net\\asp.net mvc\\conchimcuccu\\webmvc_giaovien_lichgiangday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|solutionrelative:webmvc_giaovien_lichgiangday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|d:\\3. l\u1EADp tr\u00ECnh _net\\asp.net mvc\\conchimcuccu\\webmvc_giaovien_lichgiangday\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|solutionrelative:webmvc_giaovien_lichgiangday\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|d:\\3. l\u1EADp tr\u00ECnh _net\\asp.net mvc\\conchimcuccu\\webmvc_giaovien_lichgiangday\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|solutionrelative:webmvc_giaovien_lichgiangday\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|d:\\3. l\u1EADp tr\u00ECnh _net\\asp.net mvc\\conchimcuccu\\webmvc_giaovien_lichgiangday\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|solutionrelative:webmvc_giaovien_lichgiangday\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C1E62F-2B4C-44A7-818B-4E8BEC532C7B}|WebMVC_Hanhkhach_Chuyenbay\\WebMVC_Hanhkhach_Chuyenbay.csproj|d:\\3. l\u1EADp tr\u00ECnh _net\\asp.net mvc\\conchimcuccu\\webmvc_hanhkhach_chuyenbay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C1E62F-2B4C-44A7-818B-4E8BEC532C7B}|WebMVC_Hanhkhach_Chuyenbay\\WebMVC_Hanhkhach_Chuyenbay.csproj|solutionrelative:webmvc_hanhkhach_chuyenbay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C1E62F-2B4C-44A7-818B-4E8BEC532C7B}|WebMVC_Hanhkhach_Chuyenbay\\WebMVC_Hanhkhach_Chuyenbay.csproj|d:\\3. l\u1EADp tr\u00ECnh _net\\asp.net mvc\\conchimcuccu\\webmvc_hanhkhach_chuyenbay\\views\\hanhkhachs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C1E62F-2B4C-44A7-818B-4E8BEC532C7B}|WebMVC_Hanhkhach_Chuyenbay\\WebMVC_Hanhkhach_Chuyenbay.csproj|solutionrelative:webmvc_hanhkhach_chuyenbay\\views\\hanhkhachs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|d:\\3. l\u1EADp tr\u00ECnh _net\\asp.net mvc\\conchimcuccu\\webmvc_giaovien_lichgiangday\\models\\lichgiangday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|solutionrelative:webmvc_giaovien_lichgiangday\\models\\lichgiangday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|d:\\3. l\u1EADp tr\u00ECnh _net\\asp.net mvc\\conchimcuccu\\webmvc_giaovien_lichgiangday\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3AD35B-E784-4F73-8C9F-E08D82EECC23}|WebMVC_Giaovien_Lichgiangday\\WebMVC_Giaovien_Lichgiangday.csproj|solutionrelative:webmvc_giaovien_lichgiangday\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Hanhkhach_Chuyenbay\\Program.cs",
+              "RelativeDocumentMoniker": "WebMVC_Hanhkhach_Chuyenbay\\Program.cs",
+              "ToolTip": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Hanhkhach_Chuyenbay\\Program.cs",
+              "RelativeToolTip": "WebMVC_Hanhkhach_Chuyenbay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:28:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Hanhkhach_Chuyenbay\\appsettings.json",
+              "RelativeDocumentMoniker": "WebMVC_Hanhkhach_Chuyenbay\\appsettings.json",
+              "ToolTip": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Hanhkhach_Chuyenbay\\appsettings.json",
+              "RelativeToolTip": "WebMVC_Hanhkhach_Chuyenbay\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T01:28:16.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\Program.cs",
+              "RelativeDocumentMoniker": "WebMVC_Giaovien_Lichgiangday\\Program.cs",
+              "ToolTip": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\Program.cs",
+              "RelativeToolTip": "WebMVC_Giaovien_Lichgiangday\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:28:08.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\appsettings.json",
+              "RelativeDocumentMoniker": "WebMVC_Giaovien_Lichgiangday\\appsettings.json",
+              "ToolTip": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\appsettings.json",
+              "RelativeToolTip": "WebMVC_Giaovien_Lichgiangday\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T01:28:05.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebMVC_Giaovien_Lichgiangday\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebMVC_Giaovien_Lichgiangday\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:24:55.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebMVC_Giaovien_Lichgiangday\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebMVC_Giaovien_Lichgiangday\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T01:24:13.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Hanhkhach_Chuyenbay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebMVC_Hanhkhach_Chuyenbay\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Hanhkhach_Chuyenbay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebMVC_Hanhkhach_Chuyenbay\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T01:23:04.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Hanhkhach_Chuyenbay\\Views\\HanhKhachs\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVC_Hanhkhach_Chuyenbay\\Views\\HanhKhachs\\Index.cshtml",
+              "ToolTip": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Hanhkhach_Chuyenbay\\Views\\HanhKhachs\\Index.cshtml",
+              "RelativeToolTip": "WebMVC_Hanhkhach_Chuyenbay\\Views\\HanhKhachs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T01:23:48.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LichGiangDay.cs",
+              "DocumentMoniker": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\Models\\LichGiangDay.cs",
+              "RelativeDocumentMoniker": "WebMVC_Giaovien_Lichgiangday\\Models\\LichGiangDay.cs",
+              "ToolTip": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\Models\\LichGiangDay.cs",
+              "RelativeToolTip": "WebMVC_Giaovien_Lichgiangday\\Models\\LichGiangDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:22:38.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVC_Giaovien_Lichgiangday\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\3. L\u1EACP TR\u00CCNH _NET\\ASP.NET MVC\\ConChimCucCu\\WebMVC_Giaovien_Lichgiangday\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebMVC_Giaovien_Lichgiangday\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T01:22:32.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

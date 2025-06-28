@@ -1,0 +1,55 @@
+﻿@model IEnumerable<WebMVC_Hanhkhach_Chuyenbay.Models.ThongKeViewModel>
+@{
+    ViewData["Title"] = "Thống kê hành khách";
+    var currentSearch = ViewData["Search"] as string;
+    var currentFilter = ViewData["FilterByTotalAmount"] as bool?;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="ThongKe" method="get" class="form-inline mb-3">
+    <div class="form-group mr-3">
+        <input type="text" name="search" value="@currentSearch" class="form-control" placeholder="Tìm..." />
+    </div>
+    <div class="form-group mr-3 form-check">
+        <input type="checkbox" name="filterByTotalAmount" value="true" id="filterByTotal" class="form-check-input" @(currentFilter == true ? "checked" : "") />
+        <label for="filterByTotal" class="form-check-label">Tổng tiền &gt; 20,000,000</label>
+    </div>
+    <button type="submit" class="btn btn-primary mr-2">Lọc</button>
+    <a asp-action="ThongKe" class="btn btn-secondary">Reset</a>
+</form>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.MaHanhKhach)</th>
+            <th>@Html.DisplayNameFor(m => m.HoTen)</th>
+            <th>@Html.DisplayNameFor(m => m.SoCMND)</th>
+            <th>@Html.DisplayNameFor(m => m.NoiDen)</th>
+            <th>@Html.DisplayNameFor(m => m.SoChuyen)</th>
+            <th>@Html.DisplayNameFor(m => m.TongTien)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+            <tr>
+                <td colspan="6" class="text-center">Không có dữ liệu phù hợp.</td>
+            </tr>
+        }
+        else
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.MaHanhKhach</td>
+                    <td>@item.HoTen</td>
+                    <td>@item.SoCMND</td>
+                    <td>@item.NoiDen</td>
+                    <td>@item.SoChuyen</td>
+                    <td>@String.Format("{0:N0}", item.TongTien)</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

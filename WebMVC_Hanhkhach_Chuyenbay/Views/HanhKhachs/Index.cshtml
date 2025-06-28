@@ -1,0 +1,63 @@
+﻿@model IEnumerable<WebMVC_Hanhkhach_Chuyenbay.Models.HanhKhach>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<form asp-action="Index" method="get" class="form-inline mb-3">
+    <div class="input-group">
+        <input type="text" name="searchString" value="@(ViewData["CurrentFilter"] ?? "")" class="form-control" placeholder="Tìm theo tên khách..." />
+        <div class="input-group-append">
+            <button type="submit" class="btn btn-primary">Tìm</button>
+            <a asp-action="Index" class="btn btn-secondary ml-2">Hiện tất cả</a>
+        </div>
+    </div>
+</form>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HoTen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoCMND)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoDT)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoiDen)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoCMND)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoDT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoiDen)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaHanhKhach">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaHanhKhach">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaHanhKhach">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

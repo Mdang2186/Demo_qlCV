@@ -1,0 +1,44 @@
+﻿@model IEnumerable<WebMVC_GiaoVien_LichGiangDay.Models.ThongKeLichViewModel>
+@{
+    ViewData["Title"] = "Thống kê chi tiết lịch giảng";
+    var fromDate = ViewData["FromDate"] as string;
+    var toDate = ViewData["ToDate"] as string;
+}
+
+<h2>@ViewData["Title"]</h2>
+<form asp-action="ThongKe" method="get" class="form-inline mb-3">
+    <input type="date" name="fromDate" value="@fromDate" class="form-control mr-2" />
+    <input type="date" name="toDate" value="@toDate" class="form-control mr-2" />
+    <button type="submit" class="btn btn-primary mr-2">Thống kê</button>
+    <a asp-action="ThongKe" class="btn btn-secondary">Reset</a>
+</form>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>MaLich</th>
+            <th>MaGV</th>
+            <th>HoTen</th>
+            <th>TenMonHoc</th>
+            <th>NgayGiangDay</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+            <tr><td colspan="5" class="text-center">Không có dữ liệu.</td></tr>
+        }
+        else
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.MaLich</td>
+                    <td>@item.MaGV</td>
+                    <td>@item.HoTen</td>
+                    <td>@item.TenMonHoc</td>
+                    <td>@item.NgayGiangDay.ToString("dd-MM-yyyy")</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

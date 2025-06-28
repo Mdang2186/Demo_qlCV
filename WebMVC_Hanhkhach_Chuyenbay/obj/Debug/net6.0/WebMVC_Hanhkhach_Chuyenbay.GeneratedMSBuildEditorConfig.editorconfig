@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebMVC_Hanhkhach_Chuyenbay
+build_property.RootNamespace = WebMVC_Hanhkhach_Chuyenbay
+build_property.ProjectDir = D:\3. LẬP TRÌNH _NET\ASP.NET MVC\ConChimCucCu\WebMVC_Hanhkhach_Chuyenbay\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\3. LẬP TRÌNH _NET\ASP.NET MVC\ConChimCucCu\WebMVC_Hanhkhach_Chuyenbay
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/ChuyenBays/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1eWVuQmF5c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/ChuyenBays/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1eWVuQmF5c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/ChuyenBays/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1eWVuQmF5c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/ChuyenBays/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1eWVuQmF5c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/ChuyenBays/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1eWVuQmF5c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/ChuyenBays/ThongKe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2h1eWVuQmF5c1xUaG9uZ0tlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/HanhKhachs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuaEtoYWNoc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/HanhKhachs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuaEtoYWNoc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/HanhKhachs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuaEtoYWNoc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/HanhKhachs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuaEtoYWNoc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/HanhKhachs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuaEtoYWNoc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/3. LẬP TRÌNH _NET/ASP.NET MVC/ConChimCucCu/WebMVC_Hanhkhach_Chuyenbay/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jpu7gl2lgi
